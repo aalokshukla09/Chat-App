@@ -18,7 +18,7 @@ Stay connected, share ideas, and collaborate instantly—anytime, anywhere.
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js, Redux, CSS/Styled Components
+- **Frontend:** React.js, Zustand, CSS/Styled Components
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Real-Time:** Socket.io
